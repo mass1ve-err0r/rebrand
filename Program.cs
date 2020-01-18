@@ -38,7 +38,7 @@ namespace rebrand {
         static void TagItems() {
             var watch = Stopwatch.StartNew();
             string[] matchingFiles = Directory.GetFiles(cDirectory, cFileExtensionPattern);
-            if (matchingFiles.Length == 0 || matchingFiles == null) {
+            if (matchingFiles.Length == 0) {
                 watch.Stop();
                 ExitWithMessage("No Files found with given extension. We are done.", 0);
             }
