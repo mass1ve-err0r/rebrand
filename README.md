@@ -24,7 +24,7 @@ Examples:
 ## Download & Installation instructions
 It is advised to setup a folder where you can just drop utilities in and execute globally (= Add a folder to your env variable/ PATH so everything inside it is globally accessible)
 
-Latest stable: (PLACEHOLDER)
+Latest stable: [HERE](https://github.com/mass1ve-err0r/rebrand/releases/latest)
 
 ## License
 This is licensed under MIT.
